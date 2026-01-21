@@ -1,9 +1,8 @@
 """
-Unit tests for database operations
+Unit tests for database operations 
 """
 import unittest
 from database.connection import DatabaseConnection
-
 
 class TestDatabase(unittest.TestCase):
     """

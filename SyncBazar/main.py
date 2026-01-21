@@ -1,5 +1,5 @@
 """
-Main entry point for SyncBazar
+Main entry point for SyncBazar our inventory management system
 """
 import tkinter as tk
 from views.login_window import LoginWindow
